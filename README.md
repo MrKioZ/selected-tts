@@ -8,4 +8,15 @@ Simply this allows you make the pc speech the selected text by copying the text 
 You will simply need the following things
 
 ## Dependicies
-`Python-3.6`
+`Python-3.6` You can install it from the following website http://python.org/
+
+After that you will have to install the next Python Libraries.
+```bash
+pip install pynput
+```
+```bash
+pip install clipboard
+```
+```bash
+pip install pyttsx3
+```
