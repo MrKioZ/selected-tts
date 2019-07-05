@@ -1,5 +1,5 @@
 # Clipboard TTS
-A text to speech script
+A simple and useful text to speech script
 
 # Description
 Simply this allows you make the pc speech the selected text by copying the text and reading it from the clipboard
