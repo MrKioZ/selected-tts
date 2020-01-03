@@ -12,11 +12,5 @@ You will simply need the following things
 
 After that you will have to install the next Python Libraries.
 ```bash
-pip install pynput
-```
-```bash
-pip install clipboard
-```
-```bash
-pip install pyttsx3
+pip install -r requirements.txt
 ```
